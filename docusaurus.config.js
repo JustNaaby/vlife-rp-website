@@ -30,8 +30,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'fr',
+    locales: ['fr'],
   },
 
   presets: [
@@ -57,16 +57,15 @@ const config = {
       }),
     ],
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'VLife Serious RP',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo VLife',
           src: 'img/logo.svg',
         },
         items: [
@@ -74,12 +73,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Règlement/Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://discord.gg/B9Vh4Tjsfh',
+            label: 'Rejoindre le Discord',
             position: 'right',
           },
         ],
@@ -88,46 +86,33 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Accès rapide',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Règlement/Documentation',
+                to: '/docs/presentation',
+              },
+              {
+                label: 'Boutique',
+                to: 'https://boutique.vlite.games/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Nous rejoindre !',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/B9Vh4Tjsfh',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Lien direct vers le serveur',
+                href: '#',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `©VLife ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
