@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvlife_rp_website=self.webpackChunkvlife_rp_website||[]).push([[5234],{6882:e=>{e.exports=JSON.parse('{"permalink":"/vlife-rp-website/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

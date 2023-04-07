@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvlife_rp_website=self.webpackChunkvlife_rp_website||[]).push([[4672],{4360:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/vlife-rp-website/blog/tags/hola","allTagsPath":"/vlife-rp-website/blog/tags","count":1}')}}]);
