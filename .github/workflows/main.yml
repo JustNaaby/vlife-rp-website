@@ -16,7 +16,7 @@
       runs-on: ubuntu-latest
 
       steps:
-        - name: Checkout 🛎️
+        - name: Checkout
           uses: actions/checkout@master
           with:
             persist-credentials: false
