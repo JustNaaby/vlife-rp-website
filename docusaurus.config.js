@@ -8,8 +8,8 @@ const projectName = "vlife-rp-website";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'VLife Serious RP',
+  tagline: 'Serveur Garry\'s Mod Serious RP',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -61,12 +61,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo_vlife.webp',
       navbar: {
         title: 'VLife Serious RP',
         logo: {
           alt: 'Logo VLife',
-          src: 'img/logo.svg',
+          src: 'img/logo_vlife.webp',
         },
         items: [
           {
@@ -74,6 +74,11 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Règlement/Documentation',
+          },
+          {
+            href: 'https://boutique.vlite.games/',
+            position: 'left',
+            label: 'Soutenir le serveur',
           },
           {
             href: 'https://discord.gg/B9Vh4Tjsfh',

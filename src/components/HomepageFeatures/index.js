@@ -4,34 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Des fonctionnalités innédites',
+    Svg: require('@site/static/img/function.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Nous avons un large panel de fonctionnalités offrant une multitude de possibilités. En plus des addons
+        achetés, nous avons implémenté des petites fonctionnalités qui rendent le gameplay beaucoup plus intéressant.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'RP pour tous',
+    Svg: require('@site/static/img/roleplay.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Basé sur le respect des autres, l'écoute et la coopération, le serveur s'oriente vers un bon RP permettant à
+         tous de profiter de la meilleure expérience possible.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Une administration efficace',
+    Svg: require('@site/static/img/admin.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Tout le staff est là pour vous aider en cas de difficulté mais aussi faire preuve d'une impartialité
+        et d'une justesse indiscutable.
       </>
     ),
+    
   },
 ];
 
@@ -39,7 +40,7 @@ function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Svg className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
