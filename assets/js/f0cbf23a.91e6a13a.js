@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvlife_rp_website=self.webpackChunkvlife_rp_website||[]).push([[5347],{5991:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/vlife-rp-website/blog/tags/docusaurus","allTagsPath":"/vlife-rp-website/blog/tags","count":4}')}}]);
