@@ -3,8 +3,6 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const organizationName = "JustNaaby";
-const projectName = "vlife-rp-website";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -54,6 +52,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+      },
       // Replace with your project's social card
       image: 'img/logo_vlife.webp',
       navbar: {
