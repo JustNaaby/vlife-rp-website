@@ -3,9 +3,6 @@ id: garde_gouverneur
 title: Garde du Gouverneur 🕵️
 ---
 
-## Informations
-Salaire : **$80/h** - Nombre maximum : **4**
-
 ## Description
 Vous êtes un garde du corps employé par le bureau du gouverneur. Vous devez ainsi escortez et protéger le gouverneur grâce aux moyens mis à votre disposition.
 

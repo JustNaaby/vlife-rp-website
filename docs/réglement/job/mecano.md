@@ -3,11 +3,8 @@ id: mecano
 title: Mécanicien 🔧
 ---
 
-## Informations
-Salaire : **$40/h** - Nombre maximum : **2**
-
 ## Description
-Vous êtes employé à la fourrière de Rockford. Votre mission est de réparer les véhicules défectueux et/ou de dépanner les véhicules endommagés, abandonnés ou encore bloqués.
+Vous êtes employé au garage Gateway Tire & Service Center. Votre mission est de réparer les véhicules défectueux et/ou de dépanner les véhicules endommagés, abandonnés ou encore bloqués.
 
 ## Règlement
 
@@ -24,4 +21,7 @@ On considére que **le remorquage est terminé une fois que le crochet est accro
 :::
 
 ### Frais de remorquage
-Les frais de remorquage ne peuvent pas dépasser €50.
+Les frais de remorquage ne peuvent pas dépasser $300.
+
+### Amendes
+Vous ne pouvez pas mettre d'amendes si vous n'avez pas remorqué le véhicule.

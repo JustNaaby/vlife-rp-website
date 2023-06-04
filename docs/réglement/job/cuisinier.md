@@ -3,16 +3,16 @@ id: cuisinier
 title: Cuisinier 🍔
 ---
 
-## Informations
-Salaire : **$40/h** - Nombre maximum : **3**
-
 ## Description
 Votre job est de cuisiner afin de vendre vos plats aux citoyens.
 
 ## Règlement
 
 ### Arnaque
-Vous n’avez pas le droit d’arnaquer un joueur.
+Vous n’avez pas le droit d’arnaquer vos clients.
+
+### Prix
+Vous devez faire des prix raisonables.
 
 ### Cuisinier à domicile
 Vous n'avez pas le droit d'être le cuisinier personnel d'une personne ou d'un groupe de personnes.
