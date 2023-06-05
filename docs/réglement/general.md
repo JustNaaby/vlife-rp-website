@@ -75,7 +75,6 @@ Etant donné qu'on ne "meurt" pas sur le serveur (sauf si mort RP), cette règle
 :::
 Lorsque vous tombez dans le coma, vous ne vous souvenez plus de ce qu'il s'est passé 15 minutes avant votre coma.
 Lors d'action, vous n'avez pas le droit d'y retourner tant que celle-ci n'est pas <b>entièrement terminée</b> (permet de simuler le temps que vous passez normalement à l'hôpital).
-<font size="1">Mot magique à retenir : clavier.</font>
 
 ## UseBug {#usebug}
 Il est interdit d'exploiter, de partager ou de ne pas signaler un [bug](https://fr.wikipedia.org/wiki/Bug_(informatique)).
@@ -102,11 +101,12 @@ Vous pouvez ralentir l'accès à une zone ou quelque chose en y plaçant une [Fa
 
 ## PropsKill {#propskill}
 Il est interdit d'infliger des dégats à une personne ou encore de la tuer à l'aide d'un [Props](https://gmod.fandom.com/wiki/Props).
+<font size="1">Mot magique à retenir : clavier.</font>
 
 ## RôlePlay {#roleplay}
 Quelque soit le rôle que vous jouez, vous êtes dans l'obligation de le jouer correctement et en suivant sa logique.
 
-## Fadding door
+## Fading door
 Vous n'avez pas le droit de mettre au total plus de  2 [Fading door](https://steamcommunity.com/sharedfiles/filedetails/?l=french&id=115753588) pour accéder une ressource.
 
 ## Keypad/Bouton
