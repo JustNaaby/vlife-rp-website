@@ -1,7 +1,11 @@
 ---
-id: quincaillier💲
-title: quincaillier💲
+id: quincaillier
+title: Quincaillier💲
 ---
+
+:::caution Temps de jeu
+Ce métier donne accès à beaucoup d'objets (dont des armes), c'est pourquoi il faut avoir 5 heures de jeu pour pouvoir le devenir.
+:::
 
 ## Description
 Vous êtes quincailler. Vous possédez un stock de différents objets légaux dont des armes légères. Faites-en bon usage.
