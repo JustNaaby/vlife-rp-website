@@ -14,7 +14,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'RP pour tous',
+    title: 'Serious RP',
     Svg: require('@site/static/img/roleplay.svg').default,
     description: (
       <>
@@ -29,7 +29,7 @@ const FeatureList = [
     description: (
       <>
         Tout le staff est là pour vous aider en cas de difficulté mais aussi faire preuve d'une impartialité
-        et d'une justesse indiscutable.
+        et d'une justesse irréprochable. N'hésitez pas à nous contacter en cas de problème.
       </>
     ),
     
