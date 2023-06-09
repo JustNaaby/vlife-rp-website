@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Des fonctionnalités innédites',
+    title: 'Gameplay',
     Svg: require('@site/static/img/function.svg').default,
     description: (
       <>
