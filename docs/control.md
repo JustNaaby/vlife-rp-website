@@ -1,7 +1,7 @@
 ---
 id: control
 title: Contrôles
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 Si vous êtes nouveau sur le serveur, nous vous conseillons d'aller lire les pages précédentes si ce n'est pas déjà fait.
