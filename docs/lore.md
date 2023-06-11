@@ -3,7 +3,7 @@ id: lore
 title: Lore du serveur
 sidebar_position: 4
 ---
-## Une croissance exponentielle
+## New York City
 New York City, était en pleine croissance économique. Le plein emploi était établi et de nombreux investissements dans l'industrie technologique ont permis à celle-ci d'être l'une des villes les plus riches des États-Unis.
 
 ![New York](/img/lore_img1.png)
