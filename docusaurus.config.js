@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'JustNaaby', // Usually your GitHub org/user name.
-  projectName: 'vlife-rp-website', // Usually your repo name.
+  projectName: '/', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
