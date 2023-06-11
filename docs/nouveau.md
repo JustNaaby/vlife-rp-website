@@ -1,7 +1,7 @@
 ---
 id: nouveau
 title: Je suis nouveau !
-sidebar_position: 1
+sidebar_position: 2
 ---
 # Je suis nouveau sur le serveur, je fais quoi ?
 ## Je m'abonne à la collection du serveur 🤖
