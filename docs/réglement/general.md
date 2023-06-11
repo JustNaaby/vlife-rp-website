@@ -4,6 +4,8 @@ title: Général
 sidebar_position: 1
 ---
 
+# Règlement général
+
 ## FreeKill/Punch/Shoot {#freekill-punch-shoot}
 Il est interdit d'infliger des dégâts à une personne ou de la tuer sans raison valable.
 
