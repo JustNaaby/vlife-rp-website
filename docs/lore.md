@@ -14,7 +14,7 @@ Malheureusement, la période de bonheur fut de courte durée, laissant place à 
 ![Baisse taux](/img/lore_img2.png)
 
 ## Défis sans précédent pour la NYPD
-Le NYPD (New York City Police Department), sous la direction du chef de police John Price, est confronté à un défi insurmontable. Face aux manifestations violentes et aux émeutes qui éclataient un peu partout dans les rues de la ville, la police avait un besoin urgent de renforcer ses équipements pour maintenir l'ordre et la sécurité. Heureusement, grâce à un investissement d'urgence venant du Président des États-Unis, la NYPD a pu acquérir l'équipement nécessaire et  mettre en place des protocoles d'urgence. Cependant, même avec ces nouvelles ressources, la NYPD est confrontée à la violence des gangs ainsi qu'à la fragilité mentale de certains habitants de la ville.
+Le NYPD (New York City Police Department), sous la direction du chef de police Williams Solo, est confronté à un défi insurmontable. Face aux manifestations violentes et aux émeutes qui éclataient un peu partout dans les rues de la ville, la police avait un besoin urgent de renforcer ses équipements pour maintenir l'ordre et la sécurité. Heureusement, grâce à un investissement d'urgence venant du Président des États-Unis, la NYPD a pu acquérir l'équipement nécessaire et  mettre en place des protocoles d'urgence. Cependant, même avec ces nouvelles ressources, la NYPD est confrontée à la violence des gangs ainsi qu'à la fragilité mentale de certains habitants de la ville.
 
 ![Voitures qui brulent](/img/lore_img3.png)
 
