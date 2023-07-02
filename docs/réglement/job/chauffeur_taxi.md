@@ -12,3 +12,6 @@ Le prix total d'une course ne doit pas dépasser les $500.
 
 ### Double emploi
 Il est interdit d'exercer une autre activité en paralèle de votre emploi de chauffeur de taxi.
+
+### Prix
+Vous devez faire des prix raisonables.

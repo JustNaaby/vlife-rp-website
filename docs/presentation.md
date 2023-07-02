@@ -24,9 +24,15 @@ Si vous avez des bonnes connaissances dans ce domaine et que vous souhaitez vous
 L'obtention du permis de conduire se déroule en deux étapes :
 1. Vous devez répondre à des questions théoriques.
 2. Vous passez avec un moniteur d'école une épreuve pratiques (possibilité de prendre des cours en amont).
+
+Une fois le permis obtenu, vous possédez un capital de point. Si vous perdez tous vos points, votre permis devient non valide. Vous pouvez récupérer des points via le moniteur d'auto école.
 ### Permis de port d'armes
-L'obtention du permis de port d'armes s'effectue auprès des vendeur d'armes WL.
+L'obtention du permis de port d'armes s'effectue auprès des vendeurs d'armes WhiteList. 
+
+Il y a un permis d'armes légères et un permis d'armes lourdes.
 ## Armes 🔫
-Les armes de poings sont assez accessibles. Pour ce qui est des armes lourdes, à moins d'avoir passer un permis de port d'armes lourdes, celles-ci sont rares. Elles seront vendus de manière illégal environ une fois par semaine.
+Les armes de poings sont assez accessibles. Pour ce qui est des armes lourdes, à moins d'avoir passer un permis de port d'armes lourdes, celles-ci sont rares. 
 ## Inventaire 🎒
-En plus des emplacements "classiques" d'armes, vous avez un "Inventaire", qui vous permet de stocker des objets et des armes. Celui-ci est visible si vous vous faites fouiller (donc attention à ce que vous mettez dedans). Le seul endroit qui vous permet de mettre à l'abri vos affaires se situe à la banque.
+En plus des emplacements "classiques" d'armes, vous avez un inventaire qui vous permet de stocker des objets et des armes. Celui-ci est visible si vous vous faites fouiller (donc attention à ce que vous mettez dedans). Le seul endroit qui vous permet de mettre à l'abri vos affaires se situe à la banque.
+
+Si vous souhaitez stocker plus de choses sur vous, vous devez acheter un sac à dos.

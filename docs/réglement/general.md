@@ -116,8 +116,10 @@ Un bouton ou un keypad doit être clairement visible à côté de votre [Fading 
 
 Vous n'avez pas le droit de mettre des "faux" keypads.
 
-## Constructions 🏗
-Les constructions doivent être réalistes et cohérente en fonction du rôle que vous jouez et **pas à but PVP**.
+## Constructions
+Les constructions doivent être réalistes et cohérentes en fonction du rôle que vous jouez et **pas à but PVP**.
+
+Egalement, si vous utilisez des entités pour "farm", vous devez faire en sorte que celles-ci soient placées de manière RP (pas de lampe qui volent, ect...).
 :::note 
 Le staff se réserve le droit de juger vos constructions.
 :::

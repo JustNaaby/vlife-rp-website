@@ -15,4 +15,4 @@ Vous ne pouvez pas refuser des soins et vous avez l'obligation de répondre aux 
 Vous n'avez pas le droit de soigner / réaminier durant une action RP.
 
 ### Prix des soins
-Vous ne pouvez pas demander plus de $150 pour les soins dispensés.
+Les soins sont gratuits.

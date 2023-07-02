@@ -81,6 +81,11 @@ const config = {
             label: 'Rejoindre le Discord',
             position: 'right',
           },
+          {
+            href: 'steam://connect/146.59.209.237:27027',
+            label: 'Rejoindre le serveur',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -108,7 +113,7 @@ const config = {
               },
               {
                 label: 'Lien direct vers le serveur',
-                href: '#',
+                href: 'steam://connect/146.59.209.237:27027',
               },
             ],
           },
