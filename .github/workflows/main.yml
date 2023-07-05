@@ -12,6 +12,8 @@ jobs:
         run: npm ci
       - name: Build web
         run: npm run build
+      - name: Copy custom domain configuration
+        run: cp CNAME ./build/
       - name: Deploy to GH Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
