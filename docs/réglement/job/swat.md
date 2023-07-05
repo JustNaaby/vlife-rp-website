@@ -4,7 +4,7 @@ title: SWAT 🚨
 ---
 
 ## Description
-Vous etes l'unité d'élite de la police de New York. C'est vous qui êtes appelés lorsque la situation devient ingérable pour la police. Vous intervenez notamment lors des fusillades, alerte à la bombe, forcené armé retranché, libération d'otage,..
+Vous etes l'unité d'élite de la police de New York. C'est vous qui êtes appelés lorsque la situation devient ingérable pour la police. Vous intervenez notamment lors des fusillades, alerte à la bombe, forcené armé retranché, libération d'otage, ...
 
 ## Règlement
 

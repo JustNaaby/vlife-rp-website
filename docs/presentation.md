@@ -29,7 +29,7 @@ Une fois le permis obtenu, vous possédez un capital de point. Si vous perdez to
 ### Permis de port d'armes
 L'obtention du permis de port d'armes s'effectue auprès des vendeurs d'armes WhiteList. 
 
-Il y a un permis d'armes légères et un permis d'armes lourdes.
+Il y a un permis d'armes légères (A) et un permis d'armes lourdes (B).
 ## Armes 🔫
 Les armes de poings sont assez accessibles. Pour ce qui est des armes lourdes, à moins d'avoir passer un permis de port d'armes lourdes, celles-ci sont rares. 
 ## Inventaire 🎒

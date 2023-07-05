@@ -1,10 +1,11 @@
 ---
-id: quincaillier-vda
-title: Quincaillier et Vendeur d'armes💲
+id: quincaillier
+title: Quincaillier💲
 ---
 
 :::caution Temps de jeu
 Ce métier donne accès à beaucoup d'objets (dont des armes), c'est pourquoi il faut avoir 5 heures de jeu pour pouvoir le devenir.
+(sauf la première semaine d'ouverture)
 :::
 
 ## Description
