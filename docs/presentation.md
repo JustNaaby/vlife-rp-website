@@ -17,7 +17,7 @@ VLife RP Serious étant un tout nouveau projet, il n'y a pas encore de vrai pôl
 
 Cette situation est temporaire et est vouée à évoluer.
 :::info
-Si vous avez des bonnes connaissances dans ce domaine et que vous souhaitez vous investir, n'hésitez pas à présenter un projet légal sur le [discord](https://discord.gg/xkf4BAApP9).
+Si vous avez des bonnes connaissances dans ce domaine et que vous souhaitez vous investir, n'hésitez pas à présenter un projet légal sur le [discord](https://discord.gg/B9Vh4Tjsfh).
 :::
 ## Permis 💳
 ### Permis de conduire
