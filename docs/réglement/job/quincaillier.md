@@ -1,6 +1,6 @@
 ---
-id: quincaillier
-title: Quincaillier💲
+id: quincaillier-vda
+title: Quincaillier et Vendeur d'armes💲
 ---
 
 :::caution Temps de jeu

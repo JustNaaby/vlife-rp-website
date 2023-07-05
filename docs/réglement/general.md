@@ -29,7 +29,7 @@ Il est interdit de parler ou de sous-entendre un sujet qui est [HRP](#hrp).
     <li><code>Je vais appeler le gouvernement.</code></li>
     <li><code>Je vais appeler un papillon.</code></li>
     <li><code>T'as pas le droit de faire ça !</code></li>
-    <li><code>Toi tu vas voir dés que tu me met en prison.</code></li>
+    <li><code>Toi tu vas voir dés que tu me mets en prison.</code></li>
     <li><code>C'est quoi ton Discord ?</code></li>
     <li><code>Je fais une plainte. **ouvre son chat**</code></li>
 </ul>

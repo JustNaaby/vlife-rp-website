@@ -19,7 +19,7 @@ Cette situation est temporaire et est vouée à évoluer.
 :::info
 Si vous avez des bonnes connaissances dans ce domaine et que vous souhaitez vous investir, n'hésitez pas à présenter un projet légal sur le [discord](https://discord.gg/xkf4BAApP9).
 :::
-## Permis 🪪
+## Permis 💳
 ### Permis de conduire
 L'obtention du permis de conduire se déroule en deux étapes :
 1. Vous devez répondre à des questions théoriques.
