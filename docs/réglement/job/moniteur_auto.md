@@ -8,7 +8,7 @@ Description à venir...
 
 ## Règlement
 ### Métier légal
-Vous n'avez pas le droit de donner le permis contre une somme d'argent et vous devez vous assurer qu'une personne possède bien le code de la route, avant de lui faire passer l'examen pratique.
+Vous n'avez pas le droit de donner le permis ou des points contre une somme d'argent et vous devez vous assurer qu'une personne possède bien le code de la route avant de lui faire passer l'examen pratique.
 
 ### Arnaque
 Il est interdit d'arnaquer vos clients.

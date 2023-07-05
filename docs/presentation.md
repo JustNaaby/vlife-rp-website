@@ -26,6 +26,10 @@ L'obtention du permis de conduire se déroule en deux étapes :
 2. Vous passez avec un moniteur d'école une épreuve pratiques (possibilité de prendre des cours en amont).
 
 Une fois le permis obtenu, vous possédez un capital de point. Si vous perdez tous vos points, votre permis devient non valide. Vous pouvez récupérer des points via le moniteur d'auto école.
+
+:::info
+Les deux premières semaines après l'ouverture du serveur, le permis de conduire ne sera pas vérifié par la police.
+:::
 ### Permis de port d'armes
 L'obtention du permis de port d'armes s'effectue auprès des vendeurs d'armes WhiteList. 
 
