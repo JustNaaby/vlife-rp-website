@@ -1,6 +1,6 @@
 ---
 id: agent_secu
-title: Agent de sécurité 🔫
+title: Agent de sécurité 🛡️
 ---
 
 ## Description
