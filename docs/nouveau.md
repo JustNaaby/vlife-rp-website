@@ -7,7 +7,7 @@ sidebar_position: 2
 ## Je m'abonne à la collection du serveur 🤖
 **Une fois que vous arrivez sur le serveur, le téléchargement de l'ensemble des addons démarre automatiquement. Une fois que celui-ci est terminé il vous suffit de redémarrer votre jeu.**
 
-Vous pouvez si vous le souhaitez, vous abonner manuellement à la collection du serveur. Pour cela, vous devez cliquer sur le bouton `S'abonner à tout` sur [cette page](https://steamcommunity.com/sharedfiles/filedetails/?id=2958976230).
+Vous pouvez si vous le souhaitez, vous abonner manuellement à la collection du serveur. Pour cela, vous devez cliquer sur le bouton `S'abonner à tout` sur <<à venir>>.
 :::info Aide
 Si vous avez encore des erreurs ou tout autre problème, n'hésitez pas à ouvrir un ticket sur le [discord](https://discord.gg/xkf4BAApP9).
 :::
