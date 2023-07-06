@@ -23,7 +23,7 @@ En plus de la police, un autre service essentiel de la ville était soumis à un
 
 ![EMS](/img/lore_img4.jpeg)
 
-## Violence, corrution et désepoir
+## Violence, corruption et désepoir
 Dans ces lieux de violence et de corruption, la situation en ville était devenue catastrophique. Les loyers et le prix des habitations avaient énormément augmenté, entraînant ainsi une augmentation du nombre de sans-abri. Les quartiers qui étaient autrefois les zones les plus animées de la ville étaient désormais des lieux relativement déserts, où la méfiance régnait entre les résidents. La drogue s'était tristement installée dans les rues de la ville. Les gangs se livraient à des conflits armés pour le contrôle des territoires et des réseaux de trafic de drogue. Les citoyens ordinaires étaient pris au piège de cette violence quotidienne.
 
 ![Voiture de police](/img/lore_img5.png)
