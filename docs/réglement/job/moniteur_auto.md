@@ -4,7 +4,7 @@ title: Moniteur d'auto école 🚗
 ---
 
 ## Description
-Description à venir...
+Vous êtes moniteur d'auto école. Vous faites passer les permis de conduire et pouvez aussi faire passer des rattrapages en cas de perte de point. Le sécurité routière dépend de vous.
 
 ## Règlement
 ### Métier légal
