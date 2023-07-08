@@ -124,11 +124,11 @@ Egalement, si vous utilisez des entités pour "farm", vous devez faire en sorte 
 Le staff se réserve le droit de juger vos constructions.
 :::
 
-## Braquages / Prise d'otage
+## Illégal
 Il est interdit de forcer un joueur à drop des items venant du menu F4.
 
 Il est interdit de forcer un joueur à retirer de l'argent dans son ATM.
 
 Il est interdit de voler une personne au spawn.
 
-Il est interdit de braquer la même personne dans un délai de 30 minutes.
+Il est interdit de braquer la banque ou une supérette s'il y a moins de 4 policiers.
