@@ -142,6 +142,6 @@ Vous n'avez pas le droit de forcer une personne a effectuer une action à l'aide
 
 * /me le baillone
 * /me l'assome
-* /me retire les armes
+* /me lui retire ses armes
 * /me lui prend son argent
 :::
