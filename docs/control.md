@@ -10,6 +10,23 @@ Si vous êtes nouveau sur le serveur, nous vous conseillons d'aller lire les pag
 Ce tutoriel contient les contrôles par défaut de Garry's Mod. Ils peuvent être modifiés de votre côté, il se peut que tout ne correspondent pas à vos paramètres.
 :::
 
+## Chat
+### Annonces
+`/advert` permet de faire une annonce anonyme dans le chat.
+
+### Aide staff
+`@` suivi de votre message permet de contacter les staffs en jeu (si aucun staff ne répond, vous pouvez également demander de l'aide sur le Discord).
+
+### Chat HRP
+`/occ` ou `//` permet d'envoyer un message à tout le monde en dehors du RolePlay.
+
+### Chat RP
+Envoyer un message sans préfix, permet d'envoyer un message aux personnes autour de vous.
+
+`/me` suivi d'un texte, permet de réaliser des actions non permis par le jeu.
+
+`/roll` permet de tirer un nombre entre 0 et 100. Cela peut-être utilisé par exemple pour définir si vous réussissez une action (<50 echec >50 réussite).
+
 ## En véhicule 🚗
 
 :::info
@@ -54,8 +71,6 @@ Allumer/Eteindre la sirène : `Maintenir clique droit`
 Sirène manuelle : `Maintenir T`
 
 ## Divers
-
-Contacter un staff : `@` suivi de votre message (si aucun staff ne répond en jeu, vous pouvez également demander de l'aide sur le Discord)
 
 Changer la caméra (1ère personne ou 3ème personne, en dehors d'un véhicule) : `F1`
 
