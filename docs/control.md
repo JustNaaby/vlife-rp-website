@@ -37,7 +37,7 @@ Vous avez la possibilité de modifier les paramètres ci-dessous en tapant `!vcm
 
 ### Caméra
 
-Changer la caméra (1ère personne ou 3ème personne) : `Shift`
+Changer la caméra (1ère personne ou 3ème personne) : `Ctrl`
 Régarder rapidement derrière : `Maintenir clique molette`
 
 ### Lumières
