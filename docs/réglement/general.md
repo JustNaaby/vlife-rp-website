@@ -147,7 +147,7 @@ Vous n'avez pas le droit de forcer une personne a effectuer une action à l'aide
 :::
 
 ## Discrimination {#discrimination}
-Même si les insultes RP sont autorisées, tous les propos pouvant être discriminatoires sur le serveur sont prohibées.
+Même si les insultes RP sont autorisées, tous les propos pouvant être discriminatoires sont prohibées.
 
 :::note Exemples
 
