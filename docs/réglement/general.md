@@ -103,7 +103,7 @@ Vous pouvez ralentir l'accès à une zone ou quelque chose en y plaçant une [Fa
 
 ## PropsKill {#propskill}
 Il est interdit d'infliger des dégats à une personne ou encore de la tuer à l'aide d'un [Props](https://gmod.fandom.com/wiki/Props).
-<font size="1">Mot magique à retenir : clavier.</font>
+<font size="4">Mot magique à retenir : clavier.</font>
 
 ## RôlePlay {#roleplay}
 Quelque soit le rôle que vous jouez, vous êtes dans l'obligation de le jouer correctement et en suivant sa logique.
