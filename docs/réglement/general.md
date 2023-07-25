@@ -145,3 +145,13 @@ Vous n'avez pas le droit de forcer une personne a effectuer une action à l'aide
 * /me lui retire ses armes
 * /me lui prend son argent
 :::
+
+## Discrimination {#discrimination}
+Même si les insultes RP sont autorisés. Tous les propos pouvant être discriminatoires sur le serveur sont prohibées.
+
+:::note Exemples
+
+* Racisme, antisémitisme ou xénophobie
+* Homophobie ou tout ce qui se rapporte à l'orientation sexuelle
+* Sexisme
+:::

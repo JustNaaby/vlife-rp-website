@@ -27,6 +27,8 @@ Envoyer un message sans préfix, permet d'envoyer un message aux personnes autou
 
 `/roll` permet de tirer un nombre entre 0 et 100. Cela peut-être utilisé par exemple pour définir si vous réussissez une action (<50 echec >50 réussite).
 
+`/it` permet de décrire l'environnement qui vous entour.
+
 ## En véhicule 🚗
 
 :::info
