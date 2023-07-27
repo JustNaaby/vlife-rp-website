@@ -133,6 +133,8 @@ Il est interdit de voler une personne au spawn.
 
 Il est interdit de braquer la banque ou une supérette s'il y a moins de 4 policiers.
 
+Il est interdit de braquer la banque s'il n'y a pas de banquier dans celle-ci.
+
 ## ForceRP {#forcerp}
 Le `/me` permet de décrire une action non permise par le jeu (ou de préciser une action).
 
