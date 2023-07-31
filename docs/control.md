@@ -17,9 +17,6 @@ Ce tutoriel contient les contrôles par défaut de Garry's Mod. Ils peuvent êtr
 ### Aide staff
 `@` suivi de votre message permet de contacter les staffs en jeu (si aucun staff ne répond, vous pouvez également demander de l'aide sur le Discord).
 
-### Chat HRP
-`/occ` ou `//` permet d'envoyer un message à tout le monde en dehors du RolePlay.
-
 ### Chat RP
 Envoyer un message sans préfix, permet d'envoyer un message aux personnes autour de vous.
 

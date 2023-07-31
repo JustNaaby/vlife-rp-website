@@ -16,3 +16,10 @@ Vous n'avez pas le droit de soigner / réaminier durant une action RP.
 
 ### Prix des soins
 Les soins sont gratuits.
+
+### Whitelist
+Certains médecins sont Whitelist. Vous devez les considérer comme vos supérieurs (et donc respecter ce qu'ils vous disent).
+
+:::note Rejoindre la Whitelist
+Pour rejoindre la whitelist, rendez-vous sur le Discord dans le salon <b>#entreprises</b>.
+:::
