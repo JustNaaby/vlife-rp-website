@@ -15,7 +15,7 @@ Vous ne pouvez pas refuser des soins et vous avez l'obligation de répondre aux 
 Vous n'avez pas le droit de soigner / réaminier durant une action RP.
 
 ### Prix des soins
-Les soins sont gratuits.
+Vous devez faire des prix raisonnables.
 
 ### Whitelist
 Certains médecins sont Whitelist. Vous devez les considérer comme vos supérieurs (et donc respecter ce qu'ils vous disent).
