@@ -26,6 +26,8 @@ Envoyer un message sans préfix, permet d'envoyer un message aux personnes autou
 
 `/it` permet de décrire l'environnement qui vous entour.
 
+`/req` permet de demander une information sur l'environnement qui vous entour (réponse via un /it).
+
 ## En véhicule 🚗
 
 :::info
