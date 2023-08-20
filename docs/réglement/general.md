@@ -35,6 +35,8 @@ Il est interdit de parler ou de sous-entendre un sujet qui est [HRP](#hrp).
 </ul>
 :::
 
+Il est interdit d'envoyer des messages HRP dans le chat.
+
 ## Conduite RP {#conduiterp}
 Il est obligatoire d'avoir une conduite RP. Se garer correctement, rouler à droite, s'arrêter aux feux rouges.
 
@@ -124,6 +126,8 @@ Egalement, si vous utilisez des entités pour "farm", vous devez faire en sorte 
 Le staff se réserve le droit de juger vos constructions.
 :::
 
+Il est interdit de freeze des props légers (plots, ect...)
+
 ## Illégal
 Il est interdit de forcer un joueur à drop des items venant du menu F4.
 
@@ -148,12 +152,13 @@ Vous n'avez pas le droit de forcer une personne a effectuer une action à l'aide
 * /me lui prend son argent
 :::
 
+Il est interdit d'outrepasser cette règle à l'aide d'un /roll.
+
 ## Discrimination {#discrimination}
-Même si les insultes RP sont autorisées, tous les propos pouvant être discriminatoires sont prohibées.
+Même si toutes les insultes RP sont autorisées, il faut que rester cohérent et ne pas en abuser.
 
-:::note Exemples
+## /it
+Il est interdit de poser des questions en /it (il s'agit d'une commande pour décrire l'environnement qui vous entour.
+(/req ajouter pour ça)
 
-* Racisme, antisémitisme ou xénophobie
-* Homophobie ou tout ce qui se rapporte à l'orientation sexuelle
-* Sexisme
-:::
+
