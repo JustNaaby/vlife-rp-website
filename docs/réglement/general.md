@@ -172,6 +172,7 @@ Il est obligatoire de tenir compte de la masse de personnes normalement présent
 
 ## Fear d'OC (<b>O</b>rganisation <b>C</b>riminelle)
 Le Fear d'OC est le fait d'avoir peur des organisations criminelles. Certaines zones sont contrôlées par des OC (vois carte ci-dessous). Il est important de prendre en compte ce fait lorsque vous vous trouvez dans l'une ces zones. Cela implique, par exemple, de ne pas agir de manière provocante dans des quartiers d'OC si vous n'êtes pas connu.
+![OC Carte](/img/oc.png)
 
 ## RP Sexe
 Le RP à caractère sexuel, via le chat vocal ou écrit est interdit.
