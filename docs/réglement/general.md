@@ -162,7 +162,7 @@ Même si toutes les insultes RP sont autorisées, il faut que rester cohérent e
 Il est interdit de poser des questions en /it (il s'agit d'une commande pour décrire l'environnement qui vous entour.
 (/req ajouter pour ça)
 
-# MassRP {#massrp}
+## MassRP {#massrp}
 Il est obligatoire de tenir compte de la masse de personnes normalement présentes dans l'environnement qui nous entoure.
 
 :::info Exemples (la liste n'est pas exhaustive !)
@@ -170,13 +170,13 @@ Il est obligatoire de tenir compte de la masse de personnes normalement présent
 * Vous ne pouvez pas braquer une personne sur une route très fréquentée (comme le centre-ville), juste pour lui voler de l'argent.
 :::
 
-# Fear d'OC (<b>O</b>rganisation <b>C</b>riminelle)
+## Fear d'OC (<b>O</b>rganisation <b>C</b>riminelle)
 Le Fear d'OC est le fait d'avoir peur des organisations criminelles. Certaines zones sont contrôlées par des OC (vois carte ci-dessous). Il est important de prendre en compte ce fait lorsque vous vous trouvez dans l'une ces zones. Cela implique, par exemple, de ne pas agir de manière provocante dans des quartiers d'OC si vous n'êtes pas connu.
 
-# RP Sexe
+## RP Sexe
 Le RP à caractère sexuel, via le chat vocal ou écrit est interdit.
 
-# Props et entités
+## Props et entités
 Lorsque c'est possible, vous devez faire apparaitre vos props et entités de manière RP.
 
 :::note Exemple
