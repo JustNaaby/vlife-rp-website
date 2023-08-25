@@ -129,15 +129,16 @@ Le staff se réserve le droit de juger vos constructions.
 Il est interdit de freeze des props légers (plots, ect...)
 
 ## Illégal
-Il est interdit de forcer un joueur à drop des items venant du menu F4.
+* Il est interdit de forcer un joueur à drop des items venant du menu F4.
+* Il est interdit de forcer un joueur à retirer de l'argent dans son ATM.
+* Il est interdit de voler une personne au spawn.
+* Il est interdit de braquer la banque ou une supérette s'il y a moins de 4 policiers.
+* Il est interdit de braquer la banque s'il n'y a pas de banquier dans celle-ci.
+* Vous devez attendre 30 minutes entre chaque racket/cambriolage. N'oubliez pas qu'il est important de proposer du RP passif en plus du RP actif.
 
-Il est interdit de forcer un joueur à retirer de l'argent dans son ATM.
-
-Il est interdit de voler une personne au spawn.
-
-Il est interdit de braquer la banque ou une supérette s'il y a moins de 4 policiers.
-
-Il est interdit de braquer la banque s'il n'y a pas de banquier dans celle-ci.
+:::note
+Les rackets et cambriolages en boucle sont interdits sur le serveur.
+:::
 
 ## ForceRP {#forcerp}
 Le `/me` permet de décrire une action non permise par le jeu (ou de préciser une action).
@@ -161,4 +162,23 @@ Même si toutes les insultes RP sont autorisées, il faut que rester cohérent e
 Il est interdit de poser des questions en /it (il s'agit d'une commande pour décrire l'environnement qui vous entour.
 (/req ajouter pour ça)
 
+# MassRP {#massrp}
+Il est obligatoire de tenir compte de la masse de personnes normalement présentes dans l'environnement qui nous entoure.
 
+:::info Exemples (la liste n'est pas exhaustive !)
+* Vous ne pouvez pas braquer une personne dans la banque (pour lui voler son argent, par exemple). Cependant, lors d'un braquage prévu et prémédité, vous pouvez braquer la banque.
+* Vous ne pouvez pas braquer une personne sur une route très fréquentée (comme le centre-ville), juste pour lui voler de l'argent.
+:::
+
+# Fear d'OC (<b>O</b>rganisation <b>C</b>riminelle)
+Le Fear d'OC est le fait d'avoir peur des organisations criminelles. Certaines zones sont contrôlées par des OC (vois carte ci-dessous). Il est important de prendre en compte ce fait lorsque vous vous trouvez dans l'une ces zones. Cela implique, par exemple, de ne pas agir de manière provocante dans des quartiers d'OC si vous n'êtes pas connu.
+
+# RP Sexe
+Le RP à caractère sexuel, via le chat vocal ou écrit est interdit.
+
+# Props et entités
+Lorsque c'est possible, vous devez faire apparaitre vos props et entités de manière RP.
+
+:::note Exemple
+* Ne pas acheter une arme via le F4 devant un joueur, faites le dans l'arrière boutique.
+:::
